@@ -50,9 +50,9 @@
 			"selector": "source.python",
 		},
 		{
-			"characters": "$>:\\",
+			"characters": "$>:\\",//selector": "source.php",
 			"selector": "source.php",
-		},
+},
 		{
 			"characters": ".:>",
 			"selector": "source.c, source.c++",
@@ -216,7 +216,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Codecs33",
 		"RestructuredText",
 		"SublimeLinter-contrib-yamllint",
 		"SublimeLinter-gcc",
